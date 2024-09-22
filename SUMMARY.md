@@ -4,11 +4,18 @@
 
 ## Personal Projects
 
-* [Page 2](personal-projects/page-2.md)
+* [Canonical Email Generator(NPM)](https://dev.to/harishteens/i-built-a-strange-webhook-handler-in-nodejs-43b1)
+* [Regex Parser (Go Pkg)](https://pkg.go.dev/github.com/HarishTeens/regex\_parser)
+* [DynamicFormX(React)](https://github.com/HarishTeens/DynamicFormX)
+* [Side2Side (C++)](https://github.com/HarishTeens/side-to-side)
+* [SpellitOut](personal-projects/spellitout.md)
 
 ## TDA
 
-* [Page 3](tda/page-3.md)
+* [PPI card integration](tda/ppi-card-integration.md)
+* [React Native for Web (MonoRepo)](tda/react-native-for-web-monorepo.md)
+* [React LOS](tda/react-los.md)
+* [LXME](tda/lxme.md)
 
 ## Articles
 

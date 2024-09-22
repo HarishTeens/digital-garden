@@ -21,4 +21,17 @@ Software Engineer who can build blazingly fast backend systems that scales.
 
 Tech Stack: Python, Javascript, Golang
 
-### &#x20;                                                       Greatness is coming...
+### &#x20;                                                    Greatness is coming...
+
+
+
+### My links
+
+LinkedIn: [https://www.linkedin.com/in/harishteens/](https://www.linkedin.com/in/harishteens/)
+
+GitHub: [https://github.com/harishteens](https://github.com/harishteens)
+
+Dev.to: [https://dev.to/harishteens](https://dev.to/harishteens)
+
+Twitter: [https://x.com/HarishTeens](https://x.com/HarishTeens)
+

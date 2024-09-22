@@ -1,14 +1,25 @@
 ---
 description: Twitch livestream about Security hosted on GitHub Education Channel
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Security Shorts(2021)
 
-## pisodes
+## Episodes
 
-<table data-full-width="true"><thead><tr><th width="486">Name</th><th width="183">Date</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>EP 01 with Harsh Bothra</td><td>April 20, 2021</td><td><a href="https://www.twitch.tv/videos/1002611704?collection=nYq8XRa3dxbAwA">https://www.twitch.tv/videos/1002611704?collection=nYq8XRa3dxbAwA</a></td></tr><tr><td>EP 02 about SolarWinds Hack</td><td>April 27, 2021</td><td><a href="https://www.twitch.tv/videos/1002611704?collection=nYq8XRa3dxbAwA">https://www.twitch.tv/videos/1002611704?collection=nYq8XRa3dxbAwA</a></td></tr><tr><td>EP 03 with Somdev Sangwan</td><td>May 11,2021</td><td><a href="https://www.twitch.tv/videos/1018834416">https://www.twitch.tv/videos/1018834416</a></td></tr><tr><td>EP 04 doing Google Dorks</td><td>May 18,2021</td><td><a href="https://www.twitch.tv/videos/1026841209?filter=archives&#x26;sort=time">https://www.twitch.tv/videos/1026841209?filter=archives&#x26;sort=time</a></td></tr><tr><td>EP 05 with Chloé Messdaghi</td><td>May 24,2021</td><td><a href="https://www.twitch.tv/videos/1033747819?filter=archives&#x26;sort=time">https://www.twitch.tv/videos/1033747819?filter=archives&#x26;sort=time</a></td></tr><tr><td>EP 06 with LiveOverflow ✨</td><td>June 1, 2021</td><td><a href="https://www.twitch.tv/videos/1042300674">https://www.twitch.tv/videos/1042300674</a></td></tr><tr><td>EP 07 about The Rise of Cyber Attacks During COVID-19</td><td>June 8,2021</td><td><a href="https://www.twitch.tv/videos/1049705408">https://www.twitch.tv/videos/1049705408</a></td></tr><tr><td>EP 08 Job Hunting with Aseem Shrey</td><td>June 15,2021</td><td><a href="https://www.twitch.tv/videos/1056923903">https://www.twitch.tv/videos/1056923903</a></td></tr><tr><td>EP 09 | Talking CTF with Adam &#x26; Muirland</td><td>June 22,2021</td><td><a href="https://www.twitch.tv/videos/1064011200">https://www.twitch.tv/videos/1064011200</a></td></tr><tr><td>EP 10 with John Hammond</td><td>July 6,2021</td><td><a href="https://www.twitch.tv/videos/1078323560">https://www.twitch.tv/videos/1078323560</a></td></tr><tr><td>EP 11 about Social Engineering with Vishal Das</td><td>July 13,2021</td><td><a href="https://www.twitch.tv/videos/1085367127">https://www.twitch.tv/videos/1085367127</a></td></tr><tr><td>EP 12 with Luke Stephens</td><td>July 20,2021</td><td><a href="https://www.twitch.tv/videos/1092446161">https://www.twitch.tv/videos/1092446161</a></td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="329">Name</th><th width="183">Date</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>EP 01 with Harsh Bothra</td><td>April 20, 2021</td><td><a href="https://www.twitch.tv/videos/1002611704?collection=nYq8XRa3dxbAwA">https://www.twitch.tv/videos/1002611704?collection=nYq8XRa3dxbAwA</a></td></tr><tr><td>EP 02 about SolarWinds Hack</td><td>April 27, 2021</td><td><a href="https://www.twitch.tv/videos/1002611704?collection=nYq8XRa3dxbAwA">https://www.twitch.tv/videos/1002611704?collection=nYq8XRa3dxbAwA</a></td></tr><tr><td>EP 03 with Somdev Sangwan</td><td>May 11,2021</td><td><a href="https://www.twitch.tv/videos/1018834416">https://www.twitch.tv/videos/1018834416</a></td></tr><tr><td>EP 04 doing Google Dorks</td><td>May 18,2021</td><td><a href="https://www.twitch.tv/videos/1026841209?filter=archives&#x26;sort=time">https://www.twitch.tv/videos/1026841209?filter=archives&#x26;sort=time</a></td></tr><tr><td>EP 05 with Chloé Messdaghi</td><td>May 24,2021</td><td><a href="https://www.twitch.tv/videos/1033747819?filter=archives&#x26;sort=time">https://www.twitch.tv/videos/1033747819?filter=archives&#x26;sort=time</a></td></tr><tr><td>EP 06 with LiveOverflow ✨</td><td>June 1, 2021</td><td><a href="https://www.twitch.tv/videos/1042300674">https://www.twitch.tv/videos/1042300674</a></td></tr><tr><td>EP 07 about The Rise of Cyber Attacks During COVID-19</td><td>June 8,2021</td><td><a href="https://www.twitch.tv/videos/1049705408">https://www.twitch.tv/videos/1049705408</a></td></tr><tr><td>EP 08 Job Hunting with Aseem Shrey</td><td>June 15,2021</td><td><a href="https://www.twitch.tv/videos/1056923903">https://www.twitch.tv/videos/1056923903</a></td></tr><tr><td>EP 09 | Talking CTF with Adam &#x26; Muirland</td><td>June 22,2021</td><td><a href="https://www.twitch.tv/videos/1064011200">https://www.twitch.tv/videos/1064011200</a></td></tr><tr><td>EP 10 with John Hammond</td><td>July 6,2021</td><td><a href="https://www.twitch.tv/videos/1078323560">https://www.twitch.tv/videos/1078323560</a></td></tr><tr><td>EP 11 about Social Engineering with Vishal Das</td><td>July 13,2021</td><td><a href="https://www.twitch.tv/videos/1085367127">https://www.twitch.tv/videos/1085367127</a></td></tr><tr><td>EP 12 with Luke Stephens</td><td>July 20,2021</td><td><a href="https://www.twitch.tv/videos/1092446161">https://www.twitch.tv/videos/1092446161</a></td></tr></tbody></table>
 
-### The story of how it began
+## The story of how it began
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
@@ -16,7 +27,7 @@ description: Twitch livestream about Security hosted on GitHub Education Channel
 
 It all started on March 2nd, 2021 through the above message on GitHub Education Slack. That's how we got together to plan something that was gonna have a huge impact on our lives. In the beginning, we didn't have a clear picture of how the show is gonna flow. After a few weeks of regressive planning, we finalized the title "Security Shorts" and the catchphrase "Weekly dosage of Security".
 
-#### Welcome to GEST
+**Welcome to GEST**
 
 Once we submitted the proposal about our plan for Security Shorts, we got on an interview call with Elise Moe. The call went real smooth, we had prepared all that we needed to get started and I believe we nailed it. A couple of days after, we wake up to a mail saying...\
 
