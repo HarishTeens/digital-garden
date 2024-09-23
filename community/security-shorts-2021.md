@@ -23,20 +23,19 @@ layout:
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-
-
 It all started on March 2nd, 2021 through the above message on GitHub Education Slack. That's how we got together to plan something that was gonna have a huge impact on our lives. In the beginning, we didn't have a clear picture of how the show is gonna flow. After a few weeks of regressive planning, we finalized the title "Security Shorts" and the catchphrase "Weekly dosage of Security".
 
 **Welcome to GEST**
 
-Once we submitted the proposal about our plan for Security Shorts, we got on an interview call with Elise Moe. The call went real smooth, we had prepared all that we needed to get started and I believe we nailed it. A couple of days after, we wake up to a mail saying...\
-
+Once we submitted the proposal about our plan for Security Shorts, we got on an interview call with Elise Moe. The call went real smooth, we had prepared all that we needed to get started and I believe we nailed it. A couple of days after, we wake up to a mail saying...\\
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 #### Buying hardware and setting up
 
 With the excitement of getting accepted into the program. We were exploring hardware to buy for our dreamy Stream setup. Setting up for the first show required a lot of effort, as this is our first time streaming together, we needed time to figure out the flow for the show. But once we figured it all out for the first show, the upcoming shows just needed a few improvements here and there on top of the foundation we had already.
+
+{% embed url="https://x.com/HarishTeens/status/1392726481424375810" %}
 
 ### Our Workflow
 
