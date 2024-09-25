@@ -15,15 +15,13 @@ layout:
 
 # Hi, I'm Harish 👋
 
-<figure><img src=".gitbook/assets/HEIC to PNG conversion.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/new.jpg" alt=""><figcaption></figcaption></figure>
 
 Software Engineer who can build blazingly fast backend systems that scales.
 
 Tech Stack: Python, Javascript, Golang
 
-### &#x20;                                                    Greatness is coming...
-
-
+### Greatness is coming...
 
 ### My links
 
@@ -34,4 +32,3 @@ GitHub: [https://github.com/harishteens](https://github.com/harishteens)
 Dev.to: [https://dev.to/harishteens](https://dev.to/harishteens)
 
 Twitter: [https://x.com/HarishTeens](https://x.com/HarishTeens)
-
