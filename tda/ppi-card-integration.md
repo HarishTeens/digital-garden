@@ -2,7 +2,7 @@
 
 #### Summary
 
-A program manager for a card program works with multiple entities to ensure the program runs smoothly. These entities may include banks, card networks, card fulfillment vendors, and other partners. With the help of [M2P](https://m2pfintech.com/) and [Syntizen](https://syntizen.com/) I built a Multi-tenant backend system that will allow my client to enable Prepaid cards to customers seamlessly.
+A program manager for a card program works with multiple entities to ensure the program runs smoothly. These entities may include banks, card networks, card fulfillment vendors, and other partners. With the help of [M2P](https://m2pfintech.com/), [LivQuik](https://livquik.com/) and [Syntizen](https://syntizen.com/) I built a Multi-tenant backend system that will allow my client to enable Prepaid cards to customers seamlessly.
 
 #### Understanding the space
 
@@ -22,7 +22,7 @@ The reason this hierarchy exists is majorly for 2 reasons.&#x20;
 1.  **KYC:** Onboarding a customer requires doing KYC. There were two options of KYC.
 
     1. minKYC: All you needed was the Aadhard card and the OTP
-    2. fullKYC: a.k.a videoKYC. The user has to join a video call with an agent and answer a bunch of questions
+    2. fullKYC: a.k.a videoKYC. The user has to join a video call with an agent and answer a bunch of questions. Enabled by Syntizen.
 
     fullKYC was more resilient than minKYC, hence the PPI card limit was higher for fullKYC users.
 2. **Card Management:** It had APIs to view balance, transactions and card controls. It also includes the necessary APIs for the Card Program to debit, transfer funds from one account to another.
