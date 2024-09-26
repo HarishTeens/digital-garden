@@ -12,7 +12,7 @@
 
 ## TDA
 
-* [PPI card integration](tda/ppi-card-integration.md)
+* [Prepaid Card Instruments(PPI) integration](tda/ppi-card-integration.md)
 * [React Native for Web (MonoRepo)](tda/react-native-for-web-monorepo.md)
 * [React LOS](tda/react-los.md)
 * [LXME](tda/lxme.md)

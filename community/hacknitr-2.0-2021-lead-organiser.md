@@ -32,6 +32,8 @@ We had
 
 **Total Registrations**: 1180
 
-**Hackers who made a valid submission:** 253 **Total submissions:** 83
+**Hackers who made a valid submission:** 253&#x20;
+
+**Total submissions:** 83
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
