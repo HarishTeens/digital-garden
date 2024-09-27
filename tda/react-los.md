@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # React LOS
 
 This project was huge. A very big publicly traded supply chain financing company wanted to migrate their existing PHP based LOS solution to React. And they came to us to get the project done.
