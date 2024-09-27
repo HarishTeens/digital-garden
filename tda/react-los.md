@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # React LOS
 
 This project was huge. A very big publicly traded supply chain financing company wanted to migrate their existing PHP based LOS solution to React. And they came to us to get the project done.
@@ -34,10 +30,4 @@ Later we had to build to dynamic routing, where the routing information was also
 
 The project velocity was too low compared to their expectation. So Company X insisted that one of us come there and physically be available at the office. They had also hired 3 React devs, 1 was good the rest 2 were ultra-new to software itself I think. So I was there acting as a team lead, gathering requirements everyday from PM. Instructing the team on who works on what, then talking to backend team for all support required. Me , TL and PM would also discuss features that we would pick up next to be built.
 
-I spent 10-11 hours a day at their office, even Saturdays for 3 weeks straight.
-
-I would say that I really enjoyed living in Mumbai. I grew fond of the city, everything and everybody are always moving. Unlike Bangalore, people are more serious and true hustlers. I lived in a small room of an apartment in 10th floor. The view was amazing. I would take the local train to the office, work till 9. Then come back home to watch one episode of Mr.Robot. My dinner was 3 eggs, 3 slices of bread and two fruit juices. I daily spent only 200Rs on food and travel. It was unbelievable. You can live really cheap in Mumbai. Its not because I wanted to live cheap, I literally had not money. CompanyX hadn't paid us in 2 months. While this could be a trivial thing for any other agency. But for our 6 people team, two months could drain us out. I had no savings, no other money apart from what I had in my bank. With no assurance on whether they will pay us or not, I went to office every day and wrote the best React code of my lifetime. Like I promised, I brought the project's velocity to the expectation. I knew I could do it. I got it done and came back home.
-
-#### Conclusion
-
-We did not work with them after February 2024. The company though makes a ton of money is one of the underpaying companies I've ever seen. I feel a lot of tech companies in Mumbai are like that, they tend to exploit the hustle in people. I was talking one of their Java backend engineers, he was making 4Lakhs a year. He had 3years of experience. When I told him, I started my career with 15LPA. He said, bro is that even possible for me? This broke my heart, a lot of us have developed learned helplessness w.r.t. to their earning potential. I feel like I should do something about it to break this mindset that is limiting people.\
+I spent 10-11 hours a day at their office, even Saturdays for 3 weeks straight.\

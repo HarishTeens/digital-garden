@@ -10,13 +10,6 @@
 * [Side2Side (C++)](https://github.com/HarishTeens/side-to-side)
 * [SpellitOut](personal-projects/spellitout.md)
 
-## TDA
-
-* [Prepaid Card Instruments(PPI) integration](tda/ppi-card-integration.md)
-* [React Native for Web (MonoRepo)](tda/react-native-for-web-monorepo.md)
-* [React LOS](tda/react-los.md)
-* [Another Financial App](tda/lxme.md)
-
 ## Articles
 
 * [API Monitoring Guide(2024)](https://signoz.io/blog/api-monitoring-complete-guide/)
@@ -25,6 +18,12 @@
 * [Rock Paper Scissors Multiplayer with Socket(2020)](https://www.cloudzilla.ai/dev-education/rock-paper-scissor-online/#get-started)
 * [Hacktoberfest Validation API (2020)](https://dev.to/gh-campus-experts/building-an-api-for-hacktoberfest-validation-3jl6)
 * [5 PHP best practices (2020)](https://medium.com/@arishh2/5-practices-that-changed-the-way-i-code-php-78a1d6534455)
+
+## TDA
+
+* [Prepaid Card Instruments(PPI) integration](tda/ppi-card-integration.md)
+* [React Native for Web (MonoRepo)](tda/react-native-for-web-monorepo.md)
+* [React LOS](tda/react-los.md)
 
 ## Community
 
