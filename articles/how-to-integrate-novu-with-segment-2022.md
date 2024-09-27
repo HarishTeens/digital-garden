@@ -46,28 +46,26 @@ Now that we have established a broader overview of the process. Let’s get star
 #### Setting up Novu
 
 1. Head over to [https://web.novu.co/](https://web.novu.co/) and sign up with your email. You can also use GitHub to log in.
-2.  You should be seeing your Novu dashboard after providing some basic information. Below is a screenshot of what my dashboard looks like.\
+2.  You should be seeing your Novu dashboard after providing some basic information. Below is a screenshot of what my dashboard looks like.\\
 
-
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 3. In Novu, we create a notification template with a unique name to distinguish it from the others. Let’s create our first notification template. Hit the New button on the top right. Give a unique identifier to your notification. Then click on Add channel → In-app. Here you can specify a title and a redirect link upon clicking the notification. You can also choose to opt for SMS and email notifications. But as mentioned earlier in this tutorial, we would only be focussing on Push notifications.
 4.  You should see the notification has been successfully created once you hit create. Make sure it’s also enabled.
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 5.  Now go grab your API key from Settings → API keys. Store this somewhere safe, we will need it later as we set up Segment next.
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Setting up Segment
 
 1.  Log in to your Segment Dashboard. From the sidebar, select Destinations. Click on the Add Destination button to proceed.
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 2.  Click on Create Function then pick Destination as Function type.\
-    \
+    \\
 
-
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
     <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 3.  Segment offers an in-built code editor and testing environment to build our Destination Functions. As discussed in the overview section earlier, the destination function needs to send the payload to Novu servers every time an event is triggered here at Segment.
@@ -122,8 +120,7 @@ Now that we have established a broader overview of the process. Let’s get star
     }
     ```
 6.  Once the code is ready, hit the Run button to test the function. A successful request should be sent. You can also click on the record below from Request Trace to view the response sent by the Novu server. It should be a successful response(2XX)\
-    \
-
+    \\
 
     <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
@@ -132,8 +129,7 @@ Now that we have established a broader overview of the process. Let’s get star
 8. The notification name needs to be an exact match
 9. Make sure the API key is correct
 10. The status code and error response must be helpful. Refer to [this doc](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) to know what each status code means.
-11. To verify our communication with Novu servers, look for the payload delivered on the Activity feed of the Novu Dashboard.\
-
+11. To verify our communication with Novu servers, look for the payload delivered on the Activity feed of the Novu Dashboard.\\
 
     <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 12. Now that we have tested and verified our Destination function. Let’s wrap up the process by providing basic information about our Destination function.
@@ -142,8 +138,7 @@ Now that we have established a broader overview of the process. Let’s get star
 13. Amazing work 🚀 We’re almost there The destination function is now ready to be connected to a destination.
 
     <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
-14. Either you can connect this function to any of the existing Destinations or create a new one. Here is a sample configuration connection on Segment. I have my `Test source` and `Novu instance #1` destination connected to the `destination function`\
-
+14. Either you can connect this function to any of the existing Destinations or create a new one. Here is a sample configuration connection on Segment. I have my `Test source` and `Novu instance #1` destination connected to the `destination function`\\
 
     <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
@@ -160,8 +155,7 @@ Now that we have established a broader overview of the process. Let’s get star
 
     <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 4.  Here is a final view of our Notification center in action. As we can see the notifications are already showing up here. On clicking the notification, it should be redirecting you to the custom redirect URL you set earlier for this Notification template.\
-    \
-
+    \\
 
     <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 5. After configuring everything at Novu. Make sure you toggle to Production to lock in your changes
