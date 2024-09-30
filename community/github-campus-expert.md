@@ -10,7 +10,7 @@ I applied and got selected as the first GitHub Campus Expert of our college(NIT 
 
 {% embed url="https://x.com/HarishTeens/status/1283977783958368256" fullWidth="false" %}
 
-This was my first ever community leadership role. I had never picked up something like before in my life. The GCE community my favorite community as it had such vibrant people. Everybody who got selected had a lot of enthusiasm and were passionate to grow their communities. We were also lucky that it was 2020(COVID lockdown). Sitting at home, we had a lot of free time to connect and organise events virtually.
+This was my first ever community leadership role. I had never picked up something like before in my life. The GCE community was my favourite community as it had such vibrant people. Everybody who got selected had a lot of enthusiasm and were passionate to grow their communities. We were also lucky that it was 2020(COVID lockdown). Sitting at home, we had a lot of free time to connect and organise events virtually.
 
 My Medium article below is a comprehensive guide of what the GCE program includes. If you're wondering what's the ultimate resource from the program. It is **People, People, People.**
 

@@ -1,8 +1,0 @@
-# Fitness
-
-### Gym
-
-### Football
-
-### Swimming
-

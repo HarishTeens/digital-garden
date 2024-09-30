@@ -4,7 +4,7 @@
 
 ## Personal Projects
 
-* [Canonical Email Generator(NPM)](https://dev.to/harishteens/i-built-a-strange-webhook-handler-in-nodejs-43b1)
+* [Canonical Email Generator(NPM)](https://www.npmjs.com/package/canonical-email-generator)
 * [Regex Parser (Go Pkg)](https://pkg.go.dev/github.com/HarishTeens/regex\_parser)
 * [DynamicFormX(React)](https://github.com/HarishTeens/DynamicFormX)
 * [Side2Side (C++)](https://github.com/HarishTeens/side-to-side)
@@ -32,13 +32,7 @@
 * [HackNITR 2.0 (2021) Lead Organiser](community/hacknitr-2.0-2021-lead-organiser.md)
 * [Security Shorts(2021)](community/security-shorts-2021.md)
 
-## Life
-
-* [Fitness](life/fitness.md)
-* [Travel](life/travel.md)
-* [SpeedCubing](life/speedcubing.md)
-
 ## Certifications
 
-* [M320 MongoDB Data Modelling](https://file.notion.so/f/f/ef8a975b-424b-4b7b-9960-c2b4e0e140ce/bdd25734-365c-4b62-ba96-ded4abc37530/M320\_proof\_of\_completion.jfif?table=block\&id=917d32d3-79fc-42f1-9aee-c0031efff453\&spaceId=ef8a975b-424b-4b7b-9960-c2b4e0e140ce\&expirationTimestamp=1727200800000\&signature=DdrzSjrowBPy8OpfiCXmpZfEiL9L\_7IdkyxJugHOfac\&downloadName=M320\_proof\_of\_completion.jfif)
-* [Venture Capital Analyst](https://file.notion.so/f/f/ef8a975b-424b-4b7b-9960-c2b4e0e140ce/a5795e29-e580-4d6d-84ff-e81c77d00638/b3f0a91c-9455-4d31-ad6a-b5f3c257a3b4.pdf?table=block\&id=237aa52e-86bb-44ca-b161-cb1181f81251\&spaceId=ef8a975b-424b-4b7b-9960-c2b4e0e140ce\&expirationTimestamp=1727200800000\&signature=czgqIRy6c2AJOdOXq2N4E4i6aLlbGpYFWpZzzQqlwIc\&downloadName=b3f0a91c-9455-4d31-ad6a-b5f3c257a3b4.pdf)
+* [M320 MongoDB Data Modelling](https://drive.google.com/file/d/1O3hamUjgUVPqTWKamsee8PqjRd-6mkjW/view?usp=sharing)
+* [Venture Capital Analyst](https://drive.google.com/file/d/18MFAXwibOgoUTSkLC0NcpiZz5I8xAomv/view?usp=sharing)

@@ -17,7 +17,7 @@ layout:
 
 <figure><img src=".gitbook/assets/new.jpg" alt=""><figcaption></figcaption></figure>
 
-Software Engineer who can build blazingly fast backend systems that scales.
+Software Engineer who can build blazingly fast backend systems that scale.
 
 Tech Stack: Python, Javascript, Golang
 
