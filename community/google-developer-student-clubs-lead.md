@@ -22,7 +22,7 @@ Since we were hosting virtual events regularly. To incentivise other students to
 
 {% embed url="https://github.com/HarishTeens/omg-badges" %}
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 ### Inifinite livestream (Project Moonshot)
 

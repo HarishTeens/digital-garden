@@ -53,6 +53,6 @@ GitHub Universe 2020 streamed on Twitch. It was really cool to be backstage with
 ### Swags, Swags, Swags
 
 I got kilos of swags from GitHub. It reached a point where I am fed up with swags altogether. I made sure all of these was shipped to our community members, participants and contest winners. And somehow there was still a box left the last I checked with my juniors. Here are some of the them\
-![](<../.gitbook/assets/image (10).png>)![](<../.gitbook/assets/image (15).png>)![](<../.gitbook/assets/image (17).png>)![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (23).png>)![](<../.gitbook/assets/image (24).png>)![](<../.gitbook/assets/image (25).png>)![](<../.gitbook/assets/image (29).png>)
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>

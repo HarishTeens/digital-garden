@@ -16,7 +16,7 @@ A co-branded card is a payment credential created in partnership with a company 
 
 My client, lets call it Company X. Company X is no-code credit lending solution. They wanted to add PPI in their suite of products that they offer to their tenants(T). These tenants are B2C companies that can seamlessly integrate with Company X to deliver PPI cards for its customers.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 The reason this hierarchy exists is majorly for 2 reasons.&#x20;
 
@@ -41,7 +41,7 @@ Let's get a little more deeper on where the funds are stored and how its moved a
 
 After KYC verification, each user will be assigned a card entity. They are also allocated a virtual account inside M2P's Nodal account(powered by LivQuik). The card program maintains a wallet within LivQuik, that is used to credit funds to the customer's wallet whenever the **Load Funds API** is used. This needs to be facilitated by the card program through a Payment Gateway.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 Later, there was also an easier way enabled by M2P. Since each customer maintains a virtual account at LivQuik Bank. They were able to generate UPI IDs for each of the wallet account. And funds can be directly transferred to this UPI ID. This was preferred as they above requires some Txn charges which needs to be beared by Company X.
 
@@ -82,7 +82,7 @@ We needed 3 metrics,
 
 I added interceptors everywhere to populate request TATs. Using the data, I was able to write queries on Grafana to build this below dashbaord.
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>Trace of a request</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption><p>Trace of a request</p></figcaption></figure>
 
 More details on the linkedIn post below
 
